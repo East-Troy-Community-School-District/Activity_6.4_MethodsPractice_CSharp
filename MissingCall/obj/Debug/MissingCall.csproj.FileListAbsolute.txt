@@ -1,0 +1,6 @@
+C:\Users\Nolan Pawelski\Desktop\MissingCall\bin\Debug\MissingCall.exe.config
+C:\Users\Nolan Pawelski\Desktop\MissingCall\bin\Debug\MissingCall.exe
+C:\Users\Nolan Pawelski\Desktop\MissingCall\bin\Debug\MissingCall.pdb
+C:\Users\Nolan Pawelski\Desktop\MissingCall\obj\Debug\MissingCall.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\MissingCall\obj\Debug\MissingCall.exe
+C:\Users\Nolan Pawelski\Desktop\MissingCall\obj\Debug\MissingCall.pdb

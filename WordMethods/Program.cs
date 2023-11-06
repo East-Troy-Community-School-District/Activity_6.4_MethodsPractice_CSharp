@@ -1,7 +1,8 @@
 ﻿/*
  * Word Methods
- * 2/13/2023
- * C#.NET I
+ * Pawelski
+ * 11/5/2023
+ * Developing Desktop Applications
  */
 
 using System;
